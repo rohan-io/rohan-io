@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rohan-io
-- 👀 I’m interested in DevOps...
+- 👋 Hi, I’m Rohan
+- 👀 DevOps Engineer...
 
 <!---
 rohan-io/rohan-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
